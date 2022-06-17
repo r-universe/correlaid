@@ -1,0 +1,10 @@
+[
+  {
+    "package": "newsanchor",
+    "oncran": true
+  },
+  {
+    "package": "pocketapi",
+    "oncran": true
+  }
+]
