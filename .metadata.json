@@ -1,10 +1,10 @@
 [
   {
-    "package": "newsanchor",
+    "package": "pocketapi",
     "oncran": true
   },
   {
-    "package": "pocketapi",
+    "package": "newsanchor",
     "oncran": true
   }
 ]
