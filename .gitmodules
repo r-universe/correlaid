@@ -8,3 +8,6 @@
 [submodule "pocketapi"]
 	path = pocketapi
 	url = https://github.com/correlaid/pocketapi
+[submodule "restatis"]
+	path = restatis
+	url = https://github.com/correlaid/restatis
